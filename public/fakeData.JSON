@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "name": "Clay Art",
+    "image": "https://i.ibb.co/Pgkxcs4/clay-art.jpg",
+    "price": 27
+  }, {
+    "id": 2,
+    "name": "Painting",
+    "image": "https://i.ibb.co/3yqYTDf/painting.jpg",
+    "price": 87
+  }, {
+    "id": 3,
+    "name": "Learn Violin",
+    "image": "https://i.ibb.co/9wwRX87/violin.jpg",
+    "price": 54
+  }, {
+    "id": 4,
+    "name": "Cooking",
+    "image": "https://i.ibb.co/vYzYsQw/cooking.jpg",
+    "price": 77
+  }, {
+    "id": 5,
+    "name": "Yoga",
+    "image": "https://i.ibb.co/rdrPQ7L/yoga.jpg",
+    "price": 99
+  }, {
+    "id": 6,
+    "name": "Photography",
+    "image": "https://i.ibb.co/LJdYdz1/photography.jpg",
+    "price": 52
+  }, {
+    "id": 7,
+    "name": "Theater",
+    "image": "https://i.ibb.co/R2spRk3/Theater.jpg",
+    "price": 67
+  }, {
+    "id": 8,
+    "name": "Sculpture",
+    "image": "https://i.ibb.co/fp63sQ1/Sculpture.jpg",
+    "price": 33
+  }]
